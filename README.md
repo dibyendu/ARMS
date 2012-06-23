@@ -1,4 +1,16 @@
-ARMS
-====
+BCSE-II Software Engineering Project
+====================================
 
-Automatic Routine Management System
+Project : Automatic Routine Management System (ARMS)
+-------   ------------------------------------
+
+Members
+--------
+Shubhobrata Dey  	<sbcd90@gmail.com>
+Tridip Kr. Chakraborty	<tridz.inc@gmail.com>
+Dibyendu Das		<iou.in.21@gmail.com>
+Sudipta Halder		<sudiptaismm@gmail.com>
+Ramit Hansda		<ramit.ju.cse@gmail.com>
+Vikraman Choudhury	<vikraman.choudhury@gmail.com>
+
+URL : http://github.com/dibyendu/ARMS/
